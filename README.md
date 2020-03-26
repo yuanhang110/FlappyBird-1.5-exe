@@ -1,7 +1,10 @@
 # FlappyBird-1.5-exe
 用Qt编写的FlappyBird游戏，实现了点击鼠标或按空格切换小鸟颜色且可以穿墙
 
-# Flappybird 版本变更，双击进行演示
+# 游戏界面
+![image](https://github.com/yuanhang110/FlappyBird-1.5-exe/blob/master/ImagesForReadme/游戏界面.PNG)
+
+# Flappybird 版本变更，在flappybird版本变更模块图和流程图文件夹中的word文件，双击可以演示游戏画面
 图片演示需要等待8s左右
 
 # 1.0版本
@@ -27,3 +30,6 @@
 
 # 1.5版本变更
 1.增加黄和黑两种颜色的皮肤，按一次空格为黄色，拥有六次穿墙技能，再按一次为黑色，拥有9次穿墙技能
+
+# 流程图
+![image](https://github.com/yuanhang110/FlappyBird-1.5-exe/blob/master/ImagesForReadme/flappybird模块流程图5.png)
